@@ -1,4 +1,4 @@
- #⚡ elec-motor-maintenance — Diagnostics & Isolement Machine
+ ⚡ elec-motor-maintenance — Diagnostics & Isolement Machine
 Ce dépôt centralise les protocoles d'audit et de maintenance préventive pour les machines tournantes et les infrastructures de puissance de **TECHNOLOGY EVOLUCTION DRC**.
 ---
 ## 🛠️ Protocole de Test d'Isolement (Moteurs Asynchrones à Cage d'Écureuil)
